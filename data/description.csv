@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-燃やすごみ,,テストテストテスト,,#733b96
-燃やさないごみ,,ここに説明書いて良いの？,,#77ae1f
-資源,,,,#ea3b13
+燃やすごみ,,テストテストテスト,moyasu.svg,#733b96
+燃やさないごみ,,ここに説明書いて良いの？,moyasanai.svg,#77ae1f
+資源,,,shigen.svg,#ea3b13
 大型ごみ,,,,#2dc7aa
