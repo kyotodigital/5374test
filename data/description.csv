@@ -1,5 +1,10 @@
 ﻿label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やして処理するごみ,,,,#733b96
+燃やさないで処理するごみ,,,,#77ae1f
+衣類,,,,#ea3b13
+資源物,,,,#2dc7aa
+有害ごみ,,,,#733b96
+粗大ごみ（ふとん類含む）,,,,#77ae1f
+家電４品目,,,,#ea3b13
+直接持ち込みごみ,,,,#2dc7aa
+受け入れしないごみ,,,,#733b96
