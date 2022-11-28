@@ -1,3 +1,6 @@
+# 粗大ごみの収集について
+有料回収。連絡先はこちら。
+
 # 5374について
 For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 ##「いつ、どのゴミが収集されているのか？」
