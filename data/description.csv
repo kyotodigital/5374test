@@ -1,7 +1,7 @@
 ﻿label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,,#FF0000
-資源ごみ,,,,#1E90FF
-燃やすごみ,,,,#FFFF00
-大型ごみ,,,,#FFC0CB
-有害・危険ごみ,,,,#FFC0CB
-処理できないごみ,,,,#FFC0CB
+もえないごみ,,,,#00B4FF
+もえるごみ,,,,#FF47FF
+びん,,,,#FF8A0E
+ペットボトル,,,,#AE338E
+プラマーク,,,,#FFD529
+缶,,,,#00B469
