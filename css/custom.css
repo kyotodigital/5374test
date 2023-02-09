@@ -53,10 +53,12 @@ a:hover {
 }
 /* 指定日・直近日付 */
 #accordion .date {
+	font-size: 50px;
 }
 /* 分別方法の頭文字(ふりがな) */
 #accordion .initials {
 	color: #ffffff;
+	font-size: 50px;
 }
 /* ゴミを捨てるときの注意事項 */
 #accordion .note {
