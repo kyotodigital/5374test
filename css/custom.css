@@ -6,11 +6,11 @@ body {
 }
 a,
 a:hover {
-	color: blue;
+	color: white;
 	text-decoration: none;
 }
 .accordion-inner {
-	padding: 30px 30px;
+	padding: 9px 15px;
 }
 
 /*!
