@@ -18,6 +18,7 @@ a:hover {
  */
 #accordion .accordion-group {
 	font-size: 10px;
+	color: white;
 	margin-bottom: 0;
 	border: 0;
 	border-radius: 0;
@@ -37,6 +38,7 @@ a:hover {
 	text-align: center;
 	width: 80%;
 	font-size: 20px;
+	color: white;
 }
 #accordion .accordion-heading .accordion-toggle {
 	position: relative;
@@ -55,15 +57,18 @@ a:hover {
 /* 指定日・直近日付 */
 #accordion .date {
 	font-size: 40px;
+	color: white;
 }
 /* 分別方法の頭文字(ふりがな) */
 #accordion .initials {
 	color: #ffffff;
 	font-size: 50px;
+	color: white;
 }
 /* ゴミを捨てるときの注意事項 */
 #accordion .note {
 	font-size: 60px;
+	color: white;
 }
 
 /*!
