@@ -29,8 +29,8 @@ a:hover {
 	left: 10px;
 	margin: 0;
 }
-#accordion .accordion-inner ul {
-	color: #ffffff;
+/* #accordion .accordion-inner ul { */
+/*	color: #ffffff;             */
 }
 #accordion .accordion-heading .accordion-table {
 	display: table-cell;
