@@ -6,7 +6,7 @@ body {
 }
 a,
 a:hover {
-	color: white;
+	color: #ff33ff;
 	text-decoration: none;
 }
 .accordion-inner {
