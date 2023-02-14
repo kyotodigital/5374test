@@ -30,7 +30,7 @@ a:hover {
 	margin: 0;
 }
 #accordion .accordion-inner ul {
-/*	color: #ffffff;             */
+	color: #ffffff;
 }
 #accordion .accordion-heading .accordion-table {
 	display: table-cell;
