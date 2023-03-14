@@ -210,7 +210,7 @@ var TrashModel = function(_lable, _cell, remarks) {
 
   this.getDateLabel = function() {
     if (this.mostRecent === undefined) {
-	return this.getRemark() + "不明";
+	return this.getRemark() + "有料・電話(LINE)申込";
     }
     var result_text = this.mostRecent.getFullYear() + "/" + (1 + this.mostRecent.getMonth()) + "/" + this.mostRecent.getDate();
     return this.getRemark() + this.dayLabel + " " + result_text;
