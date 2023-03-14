@@ -631,7 +631,7 @@ var remarks = new Array();
           //あと何日かを計算する処理です。
           var leftDayText = "";
 	  if (trash.mostRecent === undefined) {
-	    leftDayText == "不明";
+	    leftDayText == "有料・電話(LINE)申込";
 	  } else {
             var leftDay = Math.ceil((trash.mostRecent.getTime() - today.getTime()) / (1000 * 60 * 60 * 24))
 
