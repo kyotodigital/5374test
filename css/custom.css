@@ -17,7 +17,6 @@ a:hover {
  * ゴミ収集の情報
  */
 #accordion .accordion-group {
-	font-size: 30px;
 	margin-bottom: 0;
 	border: 0;
 	border-radius: 0;
@@ -29,15 +28,14 @@ a:hover {
 	margin: 0;
 }
 #accordion .accordion-inner ul {
-	color: navy;
+	color: #ffffff;
 }
 #accordion .accordion-heading .accordion-table {
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
 	width: 80%;
-	color: red;
-	font-size: 20px;
+	font-size: 22px;
 }
 #accordion .accordion-heading .accordion-toggle {
 	position: relative;
@@ -48,25 +46,21 @@ a:hover {
 }
 /* 相対日付 (左肩) */
 #accordion .left-day {
-	color: lime;
-	font-size: 30px;
+	font-size: 1.5em;
+	color: white;
 	position: absolute;
 	padding-left: 10px;
 }
 /* 指定日・直近日付 */
 #accordion .date {
-	color: black;
-	font-size: 40px;
 }
 /* 分別方法の頭文字(ふりがな) */
 #accordion .initials {
-	color: aqua;
-	font-size: 50px;
+	color: #ffffff;
 }
 /* ゴミを捨てるときの注意事項 */
 #accordion .note {
-	color: fuchsia;
-	font-size: 60px;
+	font-size: 10px;
 }
 
 /*!
