@@ -1,10 +1,5 @@
 ﻿label,sublabel,description,styles,bgcolor
-家庭ごみ,,,,#ea3b13
-空きカン,,,,#ff6e00
-その他不燃物,,,,#ff6e00
-ペットボトル,,,,#ff6e00
-スプレー缶・ガスボンベ,,,,#ff6e00
-その他プラスチック,,,,#ff6e00
-空きビン,,,,#08b925
-筒型乾電池・蛍光灯,,,,#08b925
-粗大ごみ,,,,#00b7c0
+燃やさないごみ,,,img/moyasanai02.svg,#733b96
+資源,,,img/shigen02.svg,#77ae1f
+燃やすごみ,,,img/moyasu02.svg,#ea3b13
+びん,,,img/bin02.svg,#2dc7aa
